@@ -13,6 +13,7 @@ Grade 11 Final Project
 <li>Compile and run the main file DungeonTales.java as a java application</li>
 </ol>
 
+<img src="https://i.imgur.com/7hHHDYq.png?1" align="left"/>
 <h2>Basic Gameplay</h2>
 <p>Using the arrow keys to navigate, attempt to reach the door of each level in the shortest period of time possible.
 Avoid the spikes, or else you restart the level. Use moving platforms to traverse the map and reach the end.
