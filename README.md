@@ -6,6 +6,7 @@ Using the arrow keys to navigate, attempt to reach the door of each level in the
 Avoid the spikes, or else you restart the level. Use moving platforms to traverse the map and reach the end.
 
 <br>Use the "Change Player" feature to start over under a new username.
+
 <br>Check out the leaderboards of your game instance by going Main Menu > Leaderboards
 
 <h2>Game Images</h2>
