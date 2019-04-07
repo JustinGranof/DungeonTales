@@ -1,7 +1,7 @@
 # DungeonTales
 Grade 11 Final Project
 
-<h2>Gameplay</h2>
+<h2>Game Images</h2>
 
 <h3>Main Menu Screen</h3>
 <img src="https://i.imgur.com/q2G62ct.png?1"/>
