@@ -22,6 +22,7 @@ Use the "Change Player" feature to start over under a new username.
 
 Check out the leaderboards of your game instance by going Main Menu > Leaderboards</p>
 
+<img src="https://i.imgur.com/Kx7Yx4w.png?2" align="left"/>
 <h2>Game Images</h2>
 
 <h3>Main Menu Screen</h3>
