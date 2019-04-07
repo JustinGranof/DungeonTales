@@ -1,5 +1,16 @@
-# DungeonTales
+# Dungeon Tales
 Grade 11 Final Project
+
+<h2>Instructions to Run Dungeon Tales</h2>
+<p>Download the executable jar file, and run it on your computer.</p>
+  
+<p>An alternative way:</p>
+<ol>
+<li>Clone the repository</li>
+<li>Navigate into the Dungeon Tales folder</li>
+<li>Open the folder in a Java IDE such as Eclipse or Intellij IDEA</li>
+<li>Compile and run the main file DungeonTales.java as a java application</li>
+</ol>
 
 <h2>Basic Gameplay</h2>
 <p>Using the arrow keys to navigate, attempt to reach the door of each level in the shortest period of time possible.
