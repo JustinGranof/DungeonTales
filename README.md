@@ -1,7 +1,7 @@
 # Dungeon Tales
 Grade 11 Final Project
 
-<h2>Instructions to Run Dungeon Tales</h2> <img src="https://i.imgur.com/pf6oZxl.png"/>
+<h2>Instructions to Run Dungeon Tales</h2> <img src="https://i.imgur.com/pf6oZxl.png?1"/>
 <p>Download the executable jar file, and run it on your computer.</p>
   
 <p>An alternative way:</p>
